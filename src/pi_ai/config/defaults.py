@@ -1,0 +1,15 @@
+DEFAULT_CONFIG = {
+    "model": "tiny_cnn",
+    "num_classes": 2,
+    "input_channels": 1,
+    "image_size": 28,
+    "batch_size": 32,
+    "epochs": 5,
+    "learning_rate": 0.001,
+    "num_workers": 0,
+    "threads": 2,
+    "device": "cpu",
+    "seed": 7,
+    "data_dir": "data/raw",
+    "checkpoint_dir": "artifacts/checkpoints",
+}

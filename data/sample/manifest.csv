@@ -1,0 +1,3 @@
+path,label,split
+sample/class_a/example.png,class_a,train
+sample/class_b/example.png,class_b,validation

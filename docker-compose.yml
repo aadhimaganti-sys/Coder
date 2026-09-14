@@ -1,0 +1,7 @@
+services:
+  pi-ai:
+    build: .
+    environment:
+      PI_AI_THREADS: 2
+    volumes:
+      - ./artifacts:/app/artifacts

@@ -1,0 +1,4 @@
+root: data/raw
+validation_fraction: 0.2
+channels: 1
+image_size: 28
