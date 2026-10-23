@@ -34,3 +34,5 @@ Use `--threads 1` or a smaller batch if the Pi becomes hot. Measure latency on
 the target board; desktop CPU timings are not representative.
 
 The original single-file example remains available as `pi_model.py`.
+
+this repositery is now archived
